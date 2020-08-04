@@ -25,3 +25,9 @@ for k in range(n):
 	#	Calcula el error verdadero
 	err_verd = abs((sen_verd -sen_x) / sen_verd)*100
 	print("{:^2d} {:^19d} {:^15.10f} {:^15.4g}".format(k+1, k, sen_x, err_verd))
+
+
+
+
+#Serie de Taylor para el seno en Python. (2020, 3 abril). 
+#[Vídeo]. YouTube. https://www.youtube.com/watch?v=JrlwvWVhlJ4
