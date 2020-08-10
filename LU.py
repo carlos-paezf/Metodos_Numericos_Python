@@ -57,25 +57,25 @@ A = [[4, 3], [6, 3]]
 print ("Matriz A:")
 pprint(A)
 print (lu(A))
-print ("------------")
+print ("------------------")
 
 A = [[0, 1], [1, 1]]
 print ("Matriz A:")
 pprint(A)
 print (lu(A))
-print ("------------")
+print ("------------------")
 
 A = [[3, 1, 6], [-6, 0, -16], [0, 8, -17]]
 print ("Matriz A:")
 pprint(A)
 print (lu(A))
-print ("------------")
+print ("------------------")
 
 A = [[1, 2, 3], [2, 4, 5], [1, 3, 4]]
 print ("Matriz A:")
 pprint(A)
 print (lu(A))
-print ("------------")
+print ("------------------")
 
 
 
